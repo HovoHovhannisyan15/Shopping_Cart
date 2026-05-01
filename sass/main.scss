@@ -1,0 +1,21 @@
+// base
+@import "./components/vars";
+@import "./base/reset";
+@import "./base/base";
+
+
+// blocks
+
+// header
+@import "./blocks/1_header/section-cart";
+@import "./blocks/1_header/titles";
+
+// prosucts
+@import "./blocks/2_/cart-header";
+@import "./blocks/2_/product";
+@import "./blocks/2_/cart-footer";
+
+// count
+@import "./blocks/3_count/count";
+
+
